@@ -1,0 +1,43 @@
+<html>
+<head>
+<title>html form</title >
+<style>
+</style>
+</head>
+<body>
+
+<h2>student registrations </h1>
+<p>
+  Neme :
+<input type="text">
+</p>
+<p>
+    Roll no :
+<input type="text">
+</p>
+<p>}
+  Enrollment no :
+ <input type="text">
+</p>
+<p>
+  e-mail I'd :
+<input type="email">
+</p>
+<p>
+  phone no :
+<input type="number" required>
+</p>
+male<input type="radio" />      
+  
+female<input type="radio"/>
+ 
+ other  <input type="radio"/>
+<h3>
+Branch selection
+</h3>
+Information Technology<input type="radio"/>
+
+Computer Science <input type="radio"/>
+
+other  <input type="radio" />
+
